@@ -1,0 +1,23 @@
+DISTRITO_ACCIDENTE,COLISION DOBLE                          ,COLISION MULTIPLE                       ,CHOQUE CON OBJETO FIJO                  ,ATROPELLO                               ,VUELCO                                  ,CAIDA MOTOCICLETA                       ,CAIDA CICLOMOTOR                        ,CAIDA BICICLETA                         ,CAIDA VIAJERO BUS                       ,OTRAS CAUSAS                            ,TOTAL
+ARGANZUELA                    ,328,62,86,57,1,46,12,10,6,2,610
+BARAJAS                       ,95,6,50,34,4,12,2,4,2,4,213
+CARABANCHEL                   ,346,55,121,106,5,53,18,7,8,6,725
+CENTRO                        ,444,23,172,144,0,97,11,33,5,3,932
+CHAMARTIN                     ,499,59,122,80,5,105,14,8,5,7,904
+CHAMBERI                      ,382,26,53,88,0,63,10,19,1,5,647
+CIUDAD LINEAL                 ,411,57,119,85,4,75,15,8,5,8,787
+FUENCARRAL-EL PARDO           ,345,30,132,70,6,56,18,28,3,4,692
+HORTALEZA                     ,248,19,90,56,5,33,9,10,1,1,472
+LATINA                        ,288,40,119,104,3,36,12,11,7,2,622
+MONCLOA-ARAVACA               ,294,61,182,54,12,68,8,27,2,1,709
+MORATALAZ                     ,150,31,53,32,5,23,5,2,4,2,307
+PUENTE DE VALLECAS            ,386,81,140,118,8,41,11,11,10,5,811
+RETIRO                        ,344,69,63,56,1,67,9,33,1,3,647
+SALAMANCA                     ,467,65,111,112,1,142,14,22,14,3,951
+SAN BLAS                      ,299,20,57,68,3,34,6,9,5,0,501
+TETUAN                        ,330,43,70,91,0,73,25,13,5,3,653
+USERA                         ,206,27,74,75,2,16,2,5,4,1,412
+VICALVARO                     ,70,4,38,22,4,15,2,3,2,1,161
+VILLA DE VALLECAS             ,149,7,42,54,5,26,4,4,1,3,295
+VILLAVERDE                    ,177,11,71,54,1,8,5,6,2,1,336
+Total,"6,258",796,"1,965","1,560",75,"1,089",212,273,93,65,"12,387"
